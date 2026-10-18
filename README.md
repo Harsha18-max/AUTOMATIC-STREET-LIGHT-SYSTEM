@@ -1,5 +1,6 @@
 # AUTOMATIC STREET LIGHT SYSTEM
-Automatic street light system using Arduino uno and LDR sensor
+## Automatic street light system using Arduino uno and LDR sensor
+
 ![](Automatic_street_light.png)
 ### Hardware Components
  * Arduino Uno
