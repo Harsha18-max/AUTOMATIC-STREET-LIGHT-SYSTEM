@@ -39,7 +39,7 @@ The Automatic Street Light System has a wide scope for future development. It ca
 
 In the future, the Automatic Street Light System can be developed into a fully automated, intelligent lighting network that saves energy, reduces maintenance costs, and supports sustainable smart cities.
 
-### ~Simulation
+### ~ Thinkcard Simulation
 https://www.tinkercad.com/things/lIu7NqmJxaU-automatic-street-light-system?sharecode=J25v1xKWR6i934VgPDPkJazJbY0R-agJygFEvoD3zVk
 ### Conclusion
 ## Conclusion – Automatic Street Light System
