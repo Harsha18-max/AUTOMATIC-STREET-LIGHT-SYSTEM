@@ -39,9 +39,9 @@ The Automatic Street Light System has a wide scope for future development. It ca
 
 In the future, the Automatic Street Light System can be developed into a fully automated, intelligent lighting network that saves energy, reduces maintenance costs, and supports sustainable smart cities.
 
-### ~ Thinkcard Simulation
+### ~Thinkcard Simulation
 https://www.tinkercad.com/things/lIu7NqmJxaU-automatic-street-light-system?sharecode=J25v1xKWR6i934VgPDPkJazJbY0R-agJygFEvoD3zVk
-### Conclusion
-## Conclusion – Automatic Street Light System
+
+### ~Conclusion – Automatic Street Light System
 
 The Automatic Street Light System is an efficient and eco-friendly solution that helps save electricity by automatically switching street lights ON at night and OFF during the daytime. It uses sensors to detect light intensity, reducing unnecessary power consumption and minimizing human intervention. This system helps reduce electricity costs, improve energy efficiency, and support environmental protection. Therefore, implementing an automatic street light system is a smart step toward developing energy-efficient and smart cities.
